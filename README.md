@@ -23,4 +23,8 @@ Structure of finger
 3. Basics of Linux
 
 
+https://user-images.githubusercontent.com/123478223/216839826-9b70f120-c978-4131-a5c1-40851f2577ec.mp4
+
+
+
 
